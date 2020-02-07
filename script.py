@@ -1,1 +1,1 @@
-with open ("text.csv",'r')
+with open ("text.csv",'r') as file:
